@@ -1,0 +1,23 @@
+{
+  "name": "filesystemorganizer",
+  "version": "1.0.0",
+  "description": "This is FileSystemOrganizer. Created three commands \r [] help\r [] organize\r [] tree",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashwat01012000/FileSystemOrganizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "do" : "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Shashwat01012000/FileSystemOrganizer/issues"
+  },
+  "homepage": "https://github.com/Shashwat01012000/FileSystemOrganizer#readme"
+}
