@@ -12,3 +12,11 @@ and divide the files in the Unorganized folders on the basis of :-
     3) Documents
     4) Archives
     5) Others
+    
+Important ********
+Files 1) help.js
+      2) organize.js
+      3) tree.js
+ These files are in a folder Commands
+ 
+    
